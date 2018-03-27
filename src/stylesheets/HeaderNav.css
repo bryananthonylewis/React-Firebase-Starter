@@ -1,0 +1,10 @@
+nav {
+  background: #22a9c2;
+}
+
+.nav-wrapper button {
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
